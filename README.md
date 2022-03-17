@@ -6,3 +6,4 @@
 
 Adjunto foto de prueba:
 
+![foto][portadalinkedin.jpg]
