@@ -6,4 +6,4 @@
 
 Adjunto foto de prueba:
 
-![foto][Portada Linkedin.jpg]
+![foto](Portada_Linkedin.jpg)
